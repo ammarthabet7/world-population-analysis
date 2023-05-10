@@ -1,3 +1,7 @@
+
+
+https://github.com/ammarthabet7/world-population-analysis/assets/90426730/bfec2f3e-0707-4b25-a69b-b7630dcff8d3
+
 # world-population-analysis
 Problem statement :Now days, world is getting much bigger so it’s population. In this project we will discus with you the world population problem for 2020 and 2021.
 
